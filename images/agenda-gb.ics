@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20160915T125528Z
+DESCRIPTION:Discover in a few lines the European event of craft trends. Cr
+	éations & savoir-faire will takes place in Paris at Porte de Versailles\,
+	 from 16 to 20 November 2016. This is the number one exhibition of craft: 
+	couture\, fashion\, decor\, creative cooking\, crafts\, beauty\, knitting\
+	, scrapbooking… So many creative activities!\nTHIS IS THE LEADING SHOW F
+	OR MAKING IT YOURSELF: INSPIRATION\, SHOPPER\, EXERCISING AND DREAM!\nCré
+	ations & savoir-faire is the exhibition of craft where to come to discover
+	 new trends\, new ideas and to buy all the new material.  For five days\, 
+	the exhibition area will welcome the creative and make it yourself communi
+	ty\, focusing on five themes:\n-          Trends\, Sewing and customising\
+	n-          Paper\, scrapbooking and Colours\n-          Creative Home and
+	 DIY Ideas\n-          Needles and tradition\n-          Tasty and festive
+	 ideas\nBut we also have some inspirations: Christmas Village / Happy Even
+	ts / Do It Mini.\n\n
+DTEND;TZID="Romance Standard Time":20161120T180000
+DTSTAMP:20160915T125528Z
+DTSTART;TZID="Romance Standard Time":20161116T100000
+LAST-MODIFIED:20160915T125528Z
+LOCATION:Porte de Versailles 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Salon Créations & savoir-faire 2016
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E0FB842D610FD201000000000000000
+	010000000B12F35FC51A76B4E8521AFE4B3661A4B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><B><SPAN LANG="en"><FONT FACE="Calibri">Discover i
+	n a few lines the European event of craft trends. Créations &amp\; savoir
+	-faire will takes place in Paris at Porte de Versailles\, from 16 to 20 No
+	vember 2016. This is the number one exhibition of craft: couture\, fashion
+	\, decor\, creative cooking\, crafts\, beauty\, knitting\, scrapbooking…
+	 So many creative activities!</FONT></SPAN></B></P>\n\n<P DIR=LTR><SPAN LA
+	NG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en"></S
+	PAN></B><A NAME=""><B><SPAN LANG="en"></SPAN></B></A><B><SPAN LANG="en"></
+	SPAN></B><B><SPAN LANG="en"><FONT FACE="Calibri">THIS IS THE LEADING SHOW 
+	FOR MAKING IT YOURSELF: INSPIRATION\, SHOPPER\, EXERCISING AND DREAM!</FON
+	T></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></S
+	PAN><SPAN LANG="en"><FONT FACE="Calibri">Créations &amp\; savoir-faire is
+	 the exhibition of craft where to come to discover new trends\, new ideas 
+	and to buy all the new material.  For five days\, the exhibition area wil
+	l welcome the creative and make it yourself community\, focusing on five t
+	hemes:</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en"><FONT FACE="Calibri
+	">-          Trends\, Sewing and customising</FONT></SPAN></P>\n\
+	n<P DIR=LTR><SPAN LANG="en"><FONT FACE="Calibri">-          Paper
+	\, scrapbooking and Colours</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en
+	"><FONT FACE="Calibri">-          Creative Home and DIY Ideas</FO
+	NT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en"><FONT FACE="Calibri">-   
+	       Needles and tradition</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="en"><FONT FACE="Calibri">-          Tasty and festive ideas<
+	/FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="en"><FONT FACE="Calibri">But w
+	e also have some inspirations: Christmas Village / Happy Events / Do It Mi
+	ni.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="en"
+	></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20160915T123140Z
+DESCRIPTION:Créations & savoir-faire aura lieu à Paris\, Porte de Versail
+	les\, du 16 au 20 novembre 2016. C'est le salon n°1 du DIY : couture\, mo
+	de\, déco\, cuisine créative\, bricolage\, beauté\, tricot\, scrapbooki
+	ng… la liste de toutes les activités créatives mises à l'honneur sur 
+	le salon est longue !\n\nCréations & savoir-faire c'est le salon du Do It
+	 Yourself où venir s'imprégner des dernières tendances\, faire le plein
+	 d'idées et dénicher tout son matériel. Le salon se répartit en 5 univ
+	ers DIY <https://www.creations-savoir-faire.com/Le-Salon-du-DIY-et-des-Loi
+	sirs-Creatifs-a-Paris-CSF/Salon-DIY-deco-mariage-mode-Toutes-nos-univers-C
+	SF> \, qui réunissent la plus grande offre de loisirs créatifs du march
+	é : aiguilles & tradition / tendances mode & customisation / papiers\, sc
+	rap & couleurs / maison créative & idées brico / idées gourmandes & fes
+	tives. Découvrez également nos inspirations <https://www.creations-savoi
+	r-faire.com/Articles-Home/Nos-inspirations>  : Mon Noël DIY / Do It Mini 
+	/ Happy Events.\n\n\n
+DTEND;TZID="Romance Standard Time":20161120T180000
+DTSTAMP:20160915T123140Z
+DTSTART;TZID="Romance Standard Time":20161116T100000
+LAST-MODIFIED:20160915T123140Z
+LOCATION:Porte de Versailles 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Salon Créations & savoir-faire 2016
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D082B4DF5D0FD201000000000000000
+	0100000002406D13D77950C4DA6B051777AE5F72C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri"
+	>Créations &amp\; savoir-faire aura lieu à Paris\, Porte de Versailles\,
+	</FONT></SPAN><SPAN LANG="fr"><B> <FONT FACE="Calibri">du 16 au 20 novembr
+	e 2016.</FONT></B></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"> C'est le sa
+	lon n°1 du</FONT></SPAN><SPAN LANG="fr"><B> <FONT FACE="Calibri">DIY</FON
+	T></B></SPAN><SPAN LANG="fr"><FONT FACE="Calibri"> : couture\, mode\, dé
+	co\, cuisine créative\, bricolage\, beauté\, tricot\, scrapbooking… la
+	 liste de toutes</FONT></SPAN><SPAN LANG="fr"><B> <FONT FACE="Calibri">les
+	 activités créatives</FONT></B></SPAN><SPAN LANG="fr"><FONT FACE="Calibr
+	i"> mises à l'honneur sur le salon est longue !</FONT></SPAN><SPAN LANG="
+	fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><FONT FACE="Calibri">Créati
+	ons &amp\; savoir-faire c'est le salon du Do It Yourself où venir s'imp
+	régner des dernières tendances\, faire le plein d'idées et dénicher
+	 tout son matériel. Le salon se répartit en</FONT></SPAN><SPAN LANG="fr"
+	> </SPAN><A HREF="https://www.creations-savoir-faire.com/Le-Salon-du-DIY-e
+	t-des-Loisirs-Creatifs-a-Paris-CSF/Salon-DIY-deco-mariage-mode-Toutes-nos-
+	univers-CSF"><SPAN LANG="fr"><U><FONT COLOR="#0000FF" FACE="Calibri">5 un
+	ivers DIY</FONT></U></SPAN><SPAN LANG="fr"></SPAN></A><SPAN LANG="fr"><FO
+	NT FACE="Calibri">\, qui réunissent</FONT></SPAN><SPAN LANG="fr"><B> <FON
+	T FACE="Calibri">la plus grande offre de loisirs créatifs</FONT></B></SP
+	AN><SPAN LANG="fr"><FONT FACE="Calibri"> du marché : aiguilles &amp\; tr
+	adition / tendances mode &amp\; customisation / papiers\, scrap &amp\; cou
+	leurs / maison créative &amp\; idées brico / idées gourmandes &amp\; fe
+	stives. Découvrez également</FONT></SPAN><SPAN LANG="fr"> </SPAN><A HREF
+	="https://www.creations-savoir-faire.com/Articles-Home/Nos-inspirations"><
+	SPAN LANG="fr"><U><FONT COLOR="#0000FF" FACE="Calibri">nos inspirations</F
+	ONT></U></SPAN><SPAN LANG="fr"></SPAN></A><SPAN LANG="fr"><FONT FACE="Cali
+	bri"> : Mon Noël DIY / Do It Mini / Happy Events</FONT></SPAN><SPAN LANG=
+	"fr"><FONT FACE="Calibri">.</FONT></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr
+	"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
