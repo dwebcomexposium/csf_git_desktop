@@ -3519,3 +3519,10 @@ text-transform: initial;
     text-align: center;
     text-decoration: none;
 }
+
+.front #zone2 .list-articles .grid-la-list .gla-item:nth-child(2) .gla-item-content .gla-item-desc{
+	margin-bottom: 316px;
+}
+.front #zone2 .list-articles .gla-item-desc {
+    margin-bottom: 90px;
+}
