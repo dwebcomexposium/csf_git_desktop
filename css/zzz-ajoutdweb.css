@@ -3521,8 +3521,8 @@ text-transform: initial;
 }
 
 .front #zone2 .list-articles .grid-la-list .gla-item:nth-child(2) .gla-item-content .gla-item-desc{
-	margin-bottom: 316px;
+	margin-bottom: 316px !important;
 }
 .front #zone2 .list-articles .gla-item-desc {
-    margin-bottom: 90px;
+    margin-bottom: 90px !important;
 }
