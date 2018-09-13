@@ -3526,3 +3526,9 @@ text-transform: initial;
 .front #zone2 .list-articles .gla-item-desc {
     margin-bottom: 90px !important;
 }
+
+.front .layout-2-col #zone2 article:nth-child(2) img {
+    width: 900px !important;
+    height: 900px !important;
+    max-width: 900px !important;
+}
