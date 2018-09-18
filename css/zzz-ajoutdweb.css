@@ -3532,3 +3532,97 @@ text-transform: initial;
     height: 900px !important;
     max-width: 900px !important;
 }
+
+
+/*** TABS RUBRIQUE ESPACE PRO ***/
+
+.espace-pro .tab .tablinks-csf {
+    font-size: 15px;
+    text-transform: uppercase;
+    margin-left: 20px;
+    display: inline-block;
+    /* margin: 0 auto; */
+    /* margin-right: 20px; */
+    letter-spacing:0.08em;
+    font-family: 'raleway medium', sans-serif;
+    text-align:center;
+    /* display: block; */
+    /* margin: 0 auto; */
+}
+.espace-pro .tab .tablinks-csf:first-child {
+	padding-left:30px
+}
+.espace-pro .tab .tablinks-csf:last-child {
+	padding-left:90px
+}
+.espace-pro .tab .tablinks-csf:before{
+	width:0px;
+}
+.espace-pro .tab .tablinks-csf:nth-child(2):hover{
+	color: #c8a4c9;
+	transition:0.5s;
+}
+.espace-pro .tab .tablinks-csf:focus{
+	outline:none;
+}
+.espace-pro .tab .tablinks-csf:first-child:after{
+	border-right:1px solid #3b3b3b;
+	content:' ';
+	position:absolute;
+	width:1px;
+	height:30px;
+	margin-top:-6px;
+	margin-left:85px
+}
+.espace-pro .tab .tablinks-csf:first-child:hover{
+	color:#46a18f;
+	transition:0.5s;
+}
+.espace-pro .tab .active-tabcsf:first-child:before, .tab .tablinks-csf:first-child:hover:before{
+	border-bottom:2px solid #46a18f;
+	content:' ';
+	width:250px;
+	height:2px;
+	position:absolute;
+	margin-top:35px;
+	margin-left:-5px;
+	-webkit-transition: width 0.5s; /* Safari */
+    transition: width 0.5s;
+}
+.espace-pro .tab .active-tabcsf:last-child:before, .tab .tablinks-csf:last-child:hover:before{
+	border-bottom:2px solid #c8a4c9;
+	content:' ';
+	width:250px;
+	height:2px;
+	position:absolute;
+	margin-top:35px;
+	margin-left: 45px;
+	-webkit-transition: width 0.5s; /* Safari */
+    transition: width 0.5s;
+}
+
+.espace-pro .tab .active-tabcsf:first-child{
+	color:#46a18f;
+	
+}
+.espace-pro .tab .active-tabcsf:last-child{
+	color:#c8a4c9;
+	
+}
+.espace-pro .tab {
+    text-align: center;
+    /* border-bottom: 1px #000000 solid; */
+    margin-bottom:40px;
+    background-color:#ffffff;
+    max-width:800px;
+    min-width:705px;
+    /* border-radius: 15px; */
+    display:block;
+    margin:0 auto;
+    padding:20px 20px 20px 10px;
+    box-shadow: 0 2px 20px rgba(0,0,0,0.10), 0 0px 6px rgba(0,0,0,0.10);
+}
+.espace-pro .avril{
+	margin-top:40px;
+}
+
