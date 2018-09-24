@@ -3636,3 +3636,7 @@ text-transform: initial;
     to {opacity: 1;}
 }
 
+header.site-banner.is-stuck a.header-meet-cadre {
+    display: none;
+}
+
