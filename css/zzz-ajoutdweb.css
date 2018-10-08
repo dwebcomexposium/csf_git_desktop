@@ -3640,3 +3640,10 @@ header.site-banner.is-stuck a.header-meet-cadre {
     display: none;
 }
 
+.body-corpo.article #main{
+margin-top : -290px;	
+}
+
+.body-corpo.article .article-title .at-content .bloc-ariane{
+top: 290px;
+}
