@@ -3647,3 +3647,11 @@ margin-top : -290px;
 .body-corpo.article .article-title .at-content .bloc-ariane{
 top: 291px !important;
 }
+
+.body-corpo.page-details.page-events .mod-catal .catal-ex-item-title a{
+    text-transform: initial !important;
+}
+
+.page-events .la-slider .slider-item{
+background: transparent !important;;
+}
