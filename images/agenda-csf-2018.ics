@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20181029T151428Z
+DESCRIPTION:Discover in a few lines the European event of craft trends. Cr
+	éations & savoir-faire will takes place in Paris at Porte de Versailles\,
+	 from 16 to 20 November 2016. This is the number one exhibition of craft: 
+	couture\, fashion\, decor\, creative cooking\, crafts\, beauty\, knitting\
+	, scrapbooking… So many creative activities!\n\nTHIS IS THE LEADING SHOW
+	 FOR MAKING IT YOURSELF: INSPIRATION\, SHOPPER\, EXERCISING AND DREAM!\n\n
+	Créations & savoir-faire is the exhibition of craft where to come to disc
+	over new trends\, new ideas and to buy all the new material.  For five day
+	s\, the exhibition area will welcome the creative and make it yourself com
+	munity\, focusing on five themes:\n\n-          Trends\, Sewing and custom
+	ising\n\n-          Paper\, scrapbooking and Colours\n\n-          Creativ
+	e Home and DIY Ideas\n\n-          Needles and tradition\n\n-          Tas
+	ty and festive ideas\n\nBut we also have some inspirations: Christmas Vill
+	age / Happy Events / Do It Mini.\n\n
+DTEND;TZID="Romance Standard Time":20181202T180000
+DTSTAMP:20181029T151428Z
+DTSTART;TZID="Romance Standard Time":20181128T093000
+LAST-MODIFIED:20181029T151428Z
+LOCATION:Porte de Versailles
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Salon Créations & savoir-faire 2018
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000D0A8CBC0A06FD401000000000000000
+	010000000FA4C87342F7361409628548B6C0B6AF9
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Découvrez en quelques lign
+	es l'événement européen des tendances </FONT></SPAN><SPAN LANG="fr"><B
+	></B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verdana"
+	>do it yourself</FONT></B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><F
+	ONT COLOR="#000000" SIZE=2 FACE="Verdana">. Créations &amp\; savoir-faire
+	 aura lieu à Paris\, Porte de Versailles\, </FONT></SPAN><SPAN LANG="fr"
+	><B></B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verda
+	na">du 28 novembre au 02 décembre 2018.</FONT></B></SPAN><SPAN LANG="fr">
+	</SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FON
+	T></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="
+	Verdana">C'est le salon n°1 du </FONT></SPAN><SPAN LANG="fr"><B></B></SP
+	AN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verdana">DIY</FON
+	T></B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" 
+	SIZE=2 FACE="Verdana"> : couture\, mode\, déco\, cuisine créative\, br
+	icolage\, beauté\, tricot\, scrapbooking… la liste de toutes </FONT></
+	SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#000000
+	" SIZE=2 FACE="Verdana">les activités créatives</FONT></B></SPAN><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana
+	"> mises à l'honneur sur le salon est longue !</FONT></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><B></
+	B></SPAN><B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" S
+	IZE=2 FACE="Verdana">L'ÉVÉNEMENT RÉVÉLATEUR DES DERNIÈRES TENDANCES D
+	IY : S'INSPIRER\, SHOPPER\, S'EXERCER ET RÊVER !</FONT></SPAN><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE
+	=2 FACE="Verdana">Créations &amp\; savoir-faire c'est le salon du Do It 
+	Yourself où venir s'imprégner des dernières tendances\, faire le ple
+	in d'idées et dénicher tout son matériel. Le salon se répartit en</FO
+	NT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZ
+	E=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LAN
+	G="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verdana">4 univers DIY</FONT
+	></B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" S
+	IZE=2 FACE="Verdana">\, qui réunissent </FONT></SPAN><SPAN LANG="fr"><B>
+	</B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verdana">
+	la plus grande offre de loisirs créatifs</FONT></B></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> du 
+	marché : aiguilles &amp\; tradition / tendances mode &amp\; customisatio
+	n / papiers\, scrap &amp\; couleurs / maison créative &amp\; idées brico
+	. Découvrez également</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">nos
+	 inspirations</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT CO
+	LOR="#000000" SIZE=2 FACE="Verdana"> : Mon Noël DIY / Do It Mini / Happy
+	 Events</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></P>\n\
+	n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="fr"></SPAN><SPAN 
+	LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">LA PLUS GRANDE OFFRE
+	 DE MATIÈRES PREMIÈRES DÉDIÉES AU MARCHÉ DU DIY</FONT></SPAN><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="fr"></SPAN></B></P>\n\n<P DIR=LTR><SPAN LANG="f
+	r"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZ
+	E=2 FACE="Verdana">Vous trouverez sur le salon près de</FONT></SPAN><SPAN
+	 LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verda
+	na"> </FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#0
+	00000" SIZE=2 FACE="Verdana">300 exposants</FONT></SPAN><SPAN LANG="fr"></
+	SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> : toute
+	s les </FONT></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FON
+	T COLOR="#000000" SIZE=2 FACE="Verdana">grandes marques</FONT></B></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="V
+	erdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR
+	="#000000" SIZE=2 FACE="Verdana">(</FONT></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Custodéco</FONT>
+	</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2
+	 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FO
+	NT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Petit Pa
+	n</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000
+	" SIZE=2 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG=
+	"fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">
+	La Petit Epicerie</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FON
+	T COLOR="#000000" SIZE=2 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="fr"></
+	SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT>
+	</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2
+	 FACE="Verdana">Cultura</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> <
+	/FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" 
+	SIZE=2 FACE="Verdana">Masking Tape</FONT></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">\,</FONT></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="V
+	erdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR
+	="#000000" SIZE=2 FACE="Verdana">P</FONT></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">osca</FONT></SPAN
+	><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE=
+	"Verdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COL
+	OR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Frou Frou Merc
+	erie Contemporaine</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FO
+	NT COLOR="#000000" SIZE=2 FACE="Verdana">…) et les </FONT></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FA
+	CE="Verdana">petits créateurs tendance</FONT></B></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> :</FON
+	T></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE
+	=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	FONT COLOR="#000000" SIZE=2 FACE="Verdana">Atelier Brunette</FONT></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="V
+	erdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR
+	="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN><S
+	PAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">I AM PATTERNS</F
+	ONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SI
+	ZE=2 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"
+	><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="f
+	r"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Les 
+	Lovers</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#0
+	00000" SIZE=2 FACE="Verdana">\,</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN 
+	LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verdana"> </FONT></SPAN><SPA
+	N LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=2 FACE="Verd
+	ana">Marie La Pirate</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	FONT COLOR="#000000" SIZE=2 FACE="Verdana">...</FONT></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="fr"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"><B></B>
+	</SPAN><B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZ
+	E=2 FACE="Verdana">LE PLUS GRAND WORKSHOP D'EUROPE AVEC PLUS DE 500 ATELIE
+	RS DIY</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN></B></P>
+	\n\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"><FONT COLOR="#000000" SIZE=2 FACE="Verdana">Créations &amp\; savoir-fa
+	ire propose à ses visiteurs des </FONT></SPAN><SPAN LANG="fr"><B></B></S
+	PAN><SPAN LANG="fr"><B><FONT COLOR="#000000" SIZE=2 FACE="Verdana">animati
+	ons exclusives</FONT></B></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FO
+	NT COLOR="#000000" SIZE=2 FACE="Verdana">\, mais également plus de</FONT
+	></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><FONT COLOR="#000000" SIZE=
+	2 FACE="Verdana"> </FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><F
+	ONT COLOR="#000000" SIZE=2 FACE="Verdana">500 ateliers Do It Yourself pen
+	dant les 5 jours du salon.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG=
+	"fr"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
