@@ -3655,3 +3655,12 @@ top: 291px !important;
 .page-events .la-slider .slider-item{
 background: transparent !important;;
 }
+
+
+
+.body-corpo.exposant.fiche .catal-ed-main .catal-ed-main-stand p:nth-child(4) {
+    display: none;
+}
+.body-corpo.exposant.fiche .catal-ed-main .catal-ed-main-stand p:nth-child(3) {
+    display: none;
+}
