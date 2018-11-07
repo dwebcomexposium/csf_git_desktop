@@ -3702,3 +3702,10 @@ width: 100%;
     text-align: center;
     display: block !important;
 }
+
+#main {
+margin-top:-290px !important;
+}
+.body-corpo.article_list #main{
+margin : 0 auto !important;
+}
