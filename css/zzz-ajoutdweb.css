@@ -3486,7 +3486,16 @@ div#cxpmClientAccountWidget{
     position: inherit !important;
     font-family: inherit !important;
 }
-
+.cap-container .cxpmClientAccountPopinContent h1 {
+    left: inherit;
+    top: inherit;
+    transform: inherit;
+    font-size: 32px !important;
+    line-height: inherit;
+    width: inherit;
+    position: inherit;
+    font-family: inherit !important;
+}
 
 /**** IMAGE CENTRER DANS LES ARTICLES ****/
 
