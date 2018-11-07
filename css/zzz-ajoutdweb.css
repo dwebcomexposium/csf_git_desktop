@@ -3478,6 +3478,17 @@ div#cxpmClientAccountWidget{
     bottom: 0px;
     line-height: 16px;
 }
+
+.cxpmClientAccountPopinWrapper h2 {
+    font-size: inherit !important; 
+    text-transform: inherit !important;
+    color: #00000;
+    position: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important; */
+}
+
+
 /**** IMAGE CENTRER DANS LES ARTICLES ****/
 
 .body-corpo .article-content figure.center {
