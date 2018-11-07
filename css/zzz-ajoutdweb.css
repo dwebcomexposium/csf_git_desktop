@@ -3706,6 +3706,6 @@ width: 100%;
 #main {
 margin-top:-290px !important;
 }
-.body-corpo.article_list #main{
+.wrapper, .site-wrapper, .site-banner .inside, .site-footer .inside, .body-corpo .article-intro, .body-corpo .article-content, .body-corpo #zone2 .at-content, .body-corpo.exposant #main, .body-corpo.marque #main, .body-corpo.ma-selection #main, .body-corpo.survey #main, .body-corpo.brand-details #main, .body-corpo.error404 .error-page, .body-corpo.article_list #main, .body-corpo.search .error-page, .front #zone4 .list-articles .inside, .front #zone4 .edito.mod-catal .inside, .front #zone4 .mod-catal.catal-ex-blocs{
 margin : 0 auto !important;
 }
