@@ -3451,6 +3451,11 @@ margin-top: 260px !important;}
     background: transparent !important;
 }
 
+.optin-container p.nf-form-input {
+    margin-top: 50px;
+    margin-right: -18px;
+}
+
 /**** COMPTE CLIENT ****/
 
 div#cxpmClientAccountWidget{
