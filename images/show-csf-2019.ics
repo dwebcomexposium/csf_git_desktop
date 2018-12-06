@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 14.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Romance Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20181205T090516Z
+DESCRIPTION:Discover in a few lines the European event of craft trends. Cr
+	éations & savoir-faire will takes place in Paris at Porte de Versailles\,
+	 from 16 to 20 November 2016. This is the number one exhibition of craft: 
+	couture\, fashion\, decor\, creative cooking\, crafts\, beauty\, knitting\
+	, scrapbooking… So many creative activities!\nTHIS IS THE LEADING SHOW F
+	OR MAKING IT YOURSELF: INSPIRATION\, SHOPPER\, EXERCISING AND DREAM!\nCré
+	ations & savoir-faire is the exhibition of craft where to come to discover
+	 new trends\, new ideas and to buy all the new material.  For five days\, 
+	the exhibition area will welcome the creative and make it yourself communi
+	ty\, focusing on five themes:\n-          Trends\, Sewing and customising\
+	n-          Paper\, scrapbooking and Colours\n-          Creative Home and
+	 DIY Ideas\n-          Needles and tradition\n-          Tasty and festive
+	 ideas\nBut we also have some inspirations: Christmas Village / Happy Even
+	ts / Do It Mini.\n\n
+DTEND;TZID="Romance Standard Time":20190310T180000
+DTSTAMP:20160915T125528Z
+DTSTART;TZID="Romance Standard Time":20190307T093000
+LAST-MODIFIED:20181205T090516Z
+LOCATION:Porte de Versailles 
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=fr:Salon Créations & savoir-faire Spring Edition 2019
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000E0FB842D610FD201000000000000000
+	010000000B12F35FC51A76B4E8521AFE4B3661A4B
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion 14.02.5004.000">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted f
+	rom text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="fr"><B></B></SPAN><SPAN 
+	LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us
+	"><FONT FACE="Calibri">Discover in a few lines the European event of craft
+	 trends. Créations &amp\; savoir-faire</FONT></SPAN></B><SPAN LANG="fr"><
+	B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><
+	B><SPAN LANG="en-us"> <FONT FACE="Calibri">S</FONT></SPAN></B><SPAN LANG="
+	fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></S
+	PAN><B><SPAN LANG="en-us"><FONT FACE="Calibri">ping Edition</FONT></SPAN><
+	/B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG=
+	"fr"><B></B></SPAN><B><SPAN LANG="en-us"> <FONT FACE="Calibri">will takes 
+	place in Paris at Porte de Versailles\, from</FONT></SPAN></B><SPAN LANG="
+	fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></S
+	PAN><B><SPAN LANG="en-us"><FONT FACE="Arial"></FONT></SPAN></B><SPAN LANG=
+	"fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></
+	SPAN><B><SPAN LANG="en-us"> <FONT FACE="Calibri">7 to 10 March</FONT></SPA
+	N></B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LA
+	NG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT FACE="Calibri"> 201</FON
+	T></SPAN></B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><
+	SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT FACE="Calibri">9<
+	/FONT></SPAN></B><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SP
+	AN><SPAN LANG="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT FACE="Calibri
+	">. This is the number one exhibition of craft: couture\, fashion\, decor\
+	, creative cooking\, crafts\, beauty\, knitting\, scrapbooking… So many 
+	creative activities!</FONT></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=
+	LTR><SPAN LANG="fr"><B></B></SPAN><SPAN LANG="fr"><B></B></SPAN><SPAN LANG
+	="fr"><B></B></SPAN><B><SPAN LANG="en-us"><FONT FACE="Calibri">THIS IS THE
+	 LEADING SHOW FOR MAKING IT YOURSELF: INSPIRATION\, SHOPPER\, EXERCISING A
+	ND DREAM!</FONT></SPAN></B><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Calibri">Créations &amp\; savoir-faire is the exhibiti
+	on of craft where to come to discover new trends\, new ideas and to buy al
+	l the new material.  For</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri"
+	>4</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri"> days\, the exhibition 
+	area will welcome the creative and make it yourself community\, focusing o
+	n</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="f
+	r"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial"></FONT></SPAN><SPAN LANG="
+	fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us
+	"> <FONT FACE="Calibri">four themes:</FONT></SPAN><SPAN LANG="fr"></SPAN><
+	SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P
+	>\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN 
+	LANG="en-us"><FONT FACE="Arial">-&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\
+	;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG
+	="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"
+	></SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Paper\, scrapbooking and 
+	Colors</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LA
+	NG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n<UL DIR=LTR><UL DIR=LTR>\n<
+	P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></
+	SPAN><SPAN LANG="en-us"></SPAN></P>\n</UL></UL>\n<P DIR=LTR><SPAN LANG="en
+	-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial
+	">-&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="en-us"> <FONT FACE="Calibri">Painting\, pottery and cera
+	mic</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG=
+	"fr"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">s</FONT></SPAN><SPAN L
+	ANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="
+	en-us"></SPAN></P>\n<UL DIR=LTR><UL DIR=LTR>\n<P DIR=LTR><SPAN LANG="fr"><
+	/SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></S
+	PAN></P>\n</UL></UL>\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-
+	us"></SPAN><SPAN LANG="en-us"><FONT FACE="Arial">-&nbsp\;&nbsp\;&nbsp\;&nb
+	sp\;&nbsp\;&nbsp\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="fr">
+	</SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"> <
+	FONT FACE="Calibri">Pearls and jewels</FONT></SPAN><SPAN LANG="fr"></SPAN>
+	<SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></
+	P>\n<UL DIR=LTR><UL DIR=LTR>\n<P DIR=LTR><SPAN LANG="fr"></SPAN><SPAN LANG
+	="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n</UL><
+	/UL>\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN
+	 LANG="en-us"><FONT FACE="Arial">-&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp\;&nbsp
+	\;</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="fr"></SPAN><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"> <FONT FACE="Calib
+	ri">Vegetal</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SP
+	AN LANG="fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LAN
+	G="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr
+	"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n<P DIR=LTR><SPAN LANG="fr"></SP
+	AN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="en-us"><FONT 
+	FACE="Calibri">But we also have some inspirations: Happy Events / Do It Mi
+	ni.</FONT></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG="fr"></SPAN><SPAN LANG=
+	"fr"></SPAN><SPAN LANG="en-us"></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+END:VCALENDAR
