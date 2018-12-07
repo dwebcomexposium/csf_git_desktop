@@ -3491,7 +3491,7 @@ div#cxpmClientAccountWidget{
     position: inherit !important;
     font-family: inherit !important;
 }
-.cxpmClientAccountPopinWrapper .cxpmClientAccountPopinContent h1 {
+body.body-corpo .cxpmClientAccountPopinWrapper .cxpmClientAccountPopinContent h1 {
     left: initial !important;
     position: inherit !important;
     transform: inherit !important;
