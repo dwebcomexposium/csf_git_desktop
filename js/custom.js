@@ -77,7 +77,7 @@ $(window).load(function() {
     };
 
     // Fiche exposant
-    if(!window.location.href.indexOf("Evenements") > -1) {
+    if(document.location.href.indexOf('Evenements') === -1) {
         if ($('.catalogue.exposant.fiche').length) {
             $('.catal-ex-item-buttons').insertAfter('.catal-ed-main-media');
             $('.catal-nav-ex.mod-catal').insertAfter('.edito');
