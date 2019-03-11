@@ -57,7 +57,7 @@ $(window).load(function() {
     })
 
     // Page intérieure uniquement
-    if ($('.body-corpo').length) {
+    if ($('.body-corpo').length && document.location.href.indexOf('Evenements') === -1) {
         moveAriane();
         // Gestion de l'apparition des share-links: on toggle l'affichage de la liste des liens RS et l'affichage du texte "partager cette page"
         $(".bloc-ariane .share-rs").click(function() {
