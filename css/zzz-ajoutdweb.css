@@ -3635,11 +3635,11 @@ text-transform: initial;
 .espace-pro .tab .active-tabcsf:last-child:before, .tab .tablinks-csf:last-child:hover:before{
 	border-bottom:2px solid #c8a4c9;
 	content:' ';
-	width:250px;
+	width:153px;
 	height:2px;
 	position:absolute;
 	margin-top:35px;
-	margin-left: 45px;
+	margin-left: 0px;
 	-webkit-transition: width 0.5s; /* Safari */
     transition: width 0.5s;
 }
