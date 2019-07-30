@@ -4,7 +4,7 @@
 
  @contributors: Guillaume (Alsacréations), Rodolphe
  @date-created: 2015-05-20
- @last-update: 2016-03-29
+ @last-update: 2016-02-05
  */
 
 (function($) {
@@ -35,7 +35,6 @@
         plugin.init = function() {
 
             plugin.settings = $.extend({}, defaults, options);
-            updateSettingsFromHTMLData();
             plugin.lsGet();
             if ($element.find('.lb-js-folder').length > 0) {
                 updateFoldersInfos();
@@ -128,7 +127,6 @@
             });
         };
 
-        // Update the total cart item count
         var updateTotalLength = function() {
             var TotalLength = 0;
             $.each(cart.items, function() {
@@ -219,7 +217,7 @@
 
             // Iframe or img ?
             if($item.data("itemIframe")) {
-                $('.lp-item-preview',$modalPreview).html('<iframe class="lp-item-iframe" src="'+$item.data("itemPreview")+'" style="border:0" scrolling="no"></iframe>');
+                $('.lp-item-preview',$modalPreview).html('<iframe class="lp-item-iframe" src="'+$item.data("itemSrc")+'" style="border:0" scrolling="no"></iframe>');
             } else {
                 $('.lp-item-preview',$modalPreview).html('<img class="lp-item-img" src="'+$item.data("itemPreview")+'" alt="'+$item.data("itemName")+'">');
             }
@@ -353,12 +351,6 @@
             $img.width(newWidth);
             $img.margin = 'auto';
 
-        };
-
-        // Reads plugin settings from HTML data-* attributes (camelCase)
-        var updateSettingsFromHTMLData = function() {
-          var data = $element.data();
-          for (var dat in data) plugin.settings[dat] = data[dat];
         };
 
         plugin.init();

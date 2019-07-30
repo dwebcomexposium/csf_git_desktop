@@ -107,7 +107,8 @@
 .mod-catal .catal-ed-main .catal-ed-main-stand-ref .icon-catal {
   color: #566e02;
 }
-.mod-catal .catal-ed-main .catal-ed-main-stand-ref-link {
+.mod-catal .catal-ed-main .catal-ed-main-stand-ref-link,
+.mod-catal .catal-ed-main .catal-ed-main-stand-ref-nolink {
   color: #2b2f2f;
 }
 .mod-catal .catal-ed-main .catal-ed-main-stand-name {
@@ -138,6 +139,9 @@
   margin-top: 0;
   line-height: 1.43;
   font-size: 1.4rem;
+}
+.mod-catal .catal-ed-main .catal-ed-main-desc-content p {
+  line-height: inherit;
 }
 .mod-catal .catal-ed-main .catal-ed-main-cat {
   margin-top: 1em;
@@ -402,7 +406,8 @@
 .mod-catal .catal-ed-products .catal-edp-stand-item .icon-catal {
   color: #566e02;
 }
-.mod-catal .catal-ed-products .catal-edp-stand-link {
+.mod-catal .catal-ed-products .catal-edp-stand-link,
+.mod-catal .catal-ed-products .catal-edp-stand-nolink {
   border-right: 0;
   color: #2b2f2f;
 }

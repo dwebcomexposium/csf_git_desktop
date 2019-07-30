@@ -124,8 +124,8 @@
   display: none;
 }
 .mn-menu-item:first-of-type .mn-link-text {
-  position: absolute;
-  left: -9999em;
+ /* position: absolute;
+  left: -9999em;*/
 }
 .mn-menu-item-avecpicto .mn-link-text {
   margin-left: .4em;

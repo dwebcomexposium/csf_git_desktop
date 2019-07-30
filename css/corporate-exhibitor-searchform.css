@@ -477,7 +477,19 @@ body:not(:-moz-handler-blocked).mod-catal .esf-search-line .form-select::after {
   box-shadow: inset 0 1px 0 #FFF;
 }
 .mod-catal .esf-tree li:hover {
-  background: #F7F8F9;
+  background: #eee;
+  /* was #F7F8F9 */
+}
+.mod-catal .esf-tree li.esf-item-selected > .esf-choice-container {
+  background: #909b9d;
+  color: white;
+}
+.mod-catal .esf-tree li.esf-item-selected > .esf-choice-container .esf-next-lvl::after,
+.mod-catal .esf-tree li.esf-item-selected > .esf-choice-container .esf-nb-of-exhib {
+  color: white !important;
+}
+.mod-catal .esf-tree li.esf-item-selected > .esf-choice-container .esf-as-count {
+  display: inline;
 }
 .mod-catal .esf-tree li:after {
   content: "";

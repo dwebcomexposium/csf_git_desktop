@@ -6,4 +6,5 @@ vendor/masonry/dist/masonry.pkgd.min.js
 vendor/imagesloaded/imagesloaded.pkgd.min.js
 cookies-warning.min.js
 modules/*
-custom.js
+wb/*
+scripts-csf.js

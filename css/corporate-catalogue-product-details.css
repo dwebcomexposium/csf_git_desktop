@@ -92,7 +92,6 @@
 .mod-catal .catal-prd-main .catal-prd-main-media {
   float: left;
   max-width: 350px;
-  width: calc(50% - 1em);
   margin: 0 1em 1em 0;
 }
 .mod-catal .catal-prd-main abbr[title] {
@@ -100,7 +99,14 @@
   text-decoration: none;
 }
 .mod-catal .catal-prd-main .catal-prd-main-price {
+  overflow: hidden;
   padding-bottom: 1.4rem;
+}
+.mod-catal .catal-prd-main .catal-prd-main-price::after {
+  content: "";
+  display: table;
+  clear: both;
+  border-collapse: collapse;
 }
 .mod-catal .catal-prd-main .catal-prd-main-price-current {
   float: right;
@@ -150,6 +156,9 @@
   line-height: 1.43;
   font-size: 1.4rem;
 }
+.mod-catal .catal-prd-main .catal-prd-main-desc-content p {
+  line-height: inherit;
+}
 .mod-catal .catal-prd-main .catal-prd-main-brand {
   border-top: 1px solid #e3e9ea;
   padding: 0.8rem 0 0.2rem 0;
@@ -169,6 +178,7 @@
   text-decoration: underline;
 }
 .mod-catal .catal-prd-main .catal-prd-stand {
+  margin-bottom: 0.8rem;
   font-size: 1.2rem;
 }
 .mod-catal .catal-prd-main .catal-prd-stand::after {
@@ -198,7 +208,8 @@
 .mod-catal .catal-prd-main .catal-prd-stand-item .icon-catal {
   color: #566e02;
 }
-.mod-catal .catal-prd-main .catal-prd-stand-link {
+.mod-catal .catal-prd-main .catal-prd-stand-link,
+.mod-catal .catal-prd-main .catal-prd-stand-nolink {
   border-right: 0;
   color: #2b2f2f;
 }

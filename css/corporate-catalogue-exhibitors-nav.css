@@ -16,6 +16,12 @@
   text-align: center;
   font-size: 1.4rem;
 }
+.mod-catal.catal-nav-ex::after {
+  content: "";
+  display: table;
+  clear: both;
+  border-collapse: collapse;
+}
 .mod-catal.catal-nav-ex .catal-nav-ex-more-link {
   float: left;
   padding-top: 0.25em;

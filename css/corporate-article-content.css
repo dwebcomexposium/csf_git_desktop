@@ -37,7 +37,7 @@
   background: #e3e9ea;
 }
 .article-content figure {
-  max-width: 240px;
+  /*max-width: 240px;*/
   padding: .5em;
   margin-top: .5em;
   margin-bottom: .5em;
@@ -159,5 +159,9 @@
 .article-content .la-item:last-child {
   border-bottom: 0;
 }
+
+ figure.center{
+    text-align: center
+  }
 
 /*# sourceMappingURL=maps/corporate-article-content.css.map */
