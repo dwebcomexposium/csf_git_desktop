@@ -1088,7 +1088,7 @@
 	.block-pub h2 { margin-bottom: 20px; font-size: 10px; color: #231f20; font-weight: 300; letter-spacing: .35em; text-align: center; text-transform: uppercase; }
 	.block-pub h2:last-child { margin-bottom: 0; }
 	
-	.block-pub .block__inner { display: flex; justify-content: center; align-items: center; min-height: 90px; background-size: cover; background-position: center; background-repeat: no-repeat; }
+	.block-pub .block__inner { padding:0; display: flex; justify-content: center; align-items: center; min-height: 90px; background-size: cover; background-position: center; background-repeat: no-repeat; }
 	.block-pub .block__inner h3 { margin-right: 38px; margin-bottom: 0; font-size: 22px; line-height: 1.27; font-weight: 300; color: #fff; letter-spacing: .075em; }
 	.block-pub .block__inner h3:last-child { margin-right: 0; }
 	
