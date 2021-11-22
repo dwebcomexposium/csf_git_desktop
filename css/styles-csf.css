@@ -2878,3 +2878,13 @@
 		.resultat-recherche-home .catal-ex-item { width: 33.33%; }
 		.resultat-recherche-home .catal-ex-item-stand { max-width: 90px; }
 	}
+
+/* ------------------------------------------------------------ *\
+	Catalogue New
+\* ------------------------------------------------------------ */
+
+/*cacher encart présent sur */
+
+#catalog-v2.catalog-scope div.container div.Container-inner section.CatalogAppointmentBar {
+    display: none !important;}
+
